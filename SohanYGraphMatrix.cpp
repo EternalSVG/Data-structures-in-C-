@@ -1,5 +1,4 @@
 /*
- By: Sohan Yarlagadda
  CS 41 Data Structures
  Version: 09.17.2024
  
