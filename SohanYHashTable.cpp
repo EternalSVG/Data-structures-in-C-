@@ -1,7 +1,5 @@
 /*
- By: Sohan Yarlagadda
- CS 41 Data Structures, Professor Cuevas
- Hash Table Assignment
+ Hash Table
  */
 
 #include <iostream>
