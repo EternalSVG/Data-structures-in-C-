@@ -1,17 +1,8 @@
 /*
- By: Sohan Yarlagadda
- 11/17/2024 (Late)
- 
  Build a run length encoding program.
-
-  
-
  Write a function that takes a string and returns the encoded string using run lengthencoding.
-
  In main, prompt the user for a string.
-
  Output the encoded string.
-
  Output the compression rate.
  */
 
